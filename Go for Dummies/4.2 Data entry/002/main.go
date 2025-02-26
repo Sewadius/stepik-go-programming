@@ -1,3 +1,4 @@
+// Уборка за джуном
 package main
 
 import "fmt"

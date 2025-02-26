@@ -1,3 +1,4 @@
+// Дружественное приветствие
 package main
 
 import "fmt"

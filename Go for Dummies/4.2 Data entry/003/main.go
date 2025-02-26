@@ -1,3 +1,4 @@
+// Цифры
 package main
 
 import "fmt"
