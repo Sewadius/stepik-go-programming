@@ -1,3 +1,4 @@
+// Поиск числа Фибоначчи
 package main
 
 import "fmt"
